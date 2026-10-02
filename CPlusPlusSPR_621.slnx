@@ -8,4 +8,5 @@
   <Project Path="01_Intro/01_Intro.vcxproj" Id="62226301-1125-4fa2-8915-133268d29c83" />
   <Project Path="02_LogicOperators/02_LogicOperators.vcxproj" Id="f9fa20ce-b086-4aa7-a055-fbd74c6049ac" />
   <Project Path="03_EnumCycles/03_EnumCycles.vcxproj" Id="1121a3c6-5d22-4595-a3db-44f43629fed9" />
+  <Project Path="Domaski/Domaski.vcxproj" Id="5265009d-ac3b-411d-a5f7-603c6184ff16" />
 </Solution>
