@@ -18,5 +18,9 @@
     <ClCompile Include="Source3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Plus_Balu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
+
