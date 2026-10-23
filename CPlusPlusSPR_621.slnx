@@ -11,6 +11,9 @@
   <Project Path="05_projeckt/05_projeckt.vcxproj" Id="b6922b4b-e73c-4db9-bf8d-d6547c7ead40" />
   <Project Path="06/06.vcxproj" Id="78e3ee34-2eca-4f82-9b0c-e4a1449fe624" />
   <Project Path="Domaski/Domaski.vcxproj" Id="5265009d-ac3b-411d-a5f7-603c6184ff16" />
+  <Project Path="Domaski/StudentManager.vcxproj" Id="6bcc9a22-67ac-4bb6-8f4b-bde6a8114e09" />
+  <Project Path="DZ_DOLG/DZ_DOLG.vcxproj" Id="e64b2080-29e9-4eee-8211-64b216468afa" />
   <Project Path="wrtearuseifhdijs/wrtearuseifhdijs.vcxproj" Id="d358d884-ad6e-42fc-8195-a4388b79e761" />
 </Solution>
+
 
