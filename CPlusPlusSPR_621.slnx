@@ -17,6 +17,7 @@
   <Project Path="Function/Function.vcxproj" Id="9094586f-a2c1-441e-b0c3-b2c847b8e434" />
   <Project Path="Masuvu/Masuvu.vcxproj" Id="8b4077f7-8c6b-4171-900e-0ffb34952afc" />
   <Project Path="Poshuk_i_Sortyvannya/Poshuk_i_Sortyvannya.vcxproj" Id="24fd4375-683d-4ae6-bbe4-c248472a0a85" />
+  <Project Path="Rekyrsiya/Rekyrsiya.vcxproj" Id="583b8719-0d52-44c4-a7cc-22b15f39fd65" />
   <Project Path="wrtearuseifhdijs/wrtearuseifhdijs.vcxproj" Id="d358d884-ad6e-42fc-8195-a4388b79e761" />
 </Solution>
 
