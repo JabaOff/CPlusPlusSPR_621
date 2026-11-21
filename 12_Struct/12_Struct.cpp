@@ -40,6 +40,7 @@ using namespace std;
 //     printWM(m);
 // }
 
+
 // Завдання 2
 // 
 // 
