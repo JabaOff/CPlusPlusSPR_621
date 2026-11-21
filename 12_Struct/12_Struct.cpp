@@ -55,7 +55,6 @@ using namespace std;
 //     int power;
 // };
 //
-// 
 // void printIron(Iron& i) {
 //     cout << "Фірма:          " << i.firm << endl;
 //     cout << "Модель:         " << i.model << endl;
