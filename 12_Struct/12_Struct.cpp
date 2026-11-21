@@ -42,6 +42,7 @@ using namespace std;
 
 // Завдання 2
 // 
+// 
 //
 // struct Iron {
 //     string firm;
